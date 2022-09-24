@@ -65,6 +65,9 @@ dip yarn install
 # run psql console
 dip psql
 
+# run Redis console
+dip redis-cli
+
 # run tests
 # TIP: `dip rails test` is already auto prefixed with `RAILS_ENV=test`
 dip rails test
